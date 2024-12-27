@@ -42,13 +42,13 @@ Line64 : ip(port同public/python/website.py)
 
 ![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/php.png)
 
-### 步驟2： 輸入指令 php spark websocket:start (開啟python程式)
+### 步驟3： 輸入指令 php spark websocket:start (開啟python程式)
 
 成功會顯示以下畫面
 
 ![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/websocket.png)
 
-### 步驟3：檢查網頁是否成功啟動
+### 步驟4：檢查網頁是否成功啟動
 
 a. 點擊步驟1生成的網址，進入登入畫面
 
