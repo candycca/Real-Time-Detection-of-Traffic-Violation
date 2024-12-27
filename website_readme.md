@@ -32,7 +32,7 @@ Line64 : ip(port同public/python/website.py)
 
 
 
-## 2.啟動方法
+## 2.網站啟動指令
 
 ### 步驟1： php spark serve --host 0.0.0.0 (開啟server) 
 
