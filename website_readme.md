@@ -1,4 +1,4 @@
-##1.需要修改的路徑
+## 1.需要修改的路徑
 
 a. RT_DTV_website/app/config/App.php
 
@@ -32,7 +32,7 @@ Line64 : ip(port同public/python/website.py)
 
 
 
-##2.啟動方法
+## 2.啟動方法
 
 步驟1： php spark serve --host 0.0.0.0 (開啟server) 
 
