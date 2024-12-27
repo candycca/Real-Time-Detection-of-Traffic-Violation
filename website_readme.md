@@ -35,22 +35,33 @@ Line64 : ip(port同public/python/website.py)
 2.啟動方法
 
 步驟1： php spark serve --host 0.0.0.0 (開啟server) 
-![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/php.png){width=50%}
+
+成功會顯示以下畫面
+
+>>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/php.png)
 
 步驟2： php spark websocket:start (開啟python程式)
-![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/websocket.png)
 
-檢查網頁是否成功啟動：
+成功會顯示以下畫面
 
-點擊步驟1生成的網址，進入登入畫面
-![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/登入.png)
+>>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/websocket.png)
 
-輸入帳密後，進到首頁
-![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/首頁.png)
+步驟3：檢查網頁是否成功啟動：
 
-點擊自動偵測，並進入開發者模式，若主控台顯示訊息「websocket已連線」即代表成功啟動
-![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/成功.png)
+a. 點擊步驟1生成的網址，進入登入畫面
+
+>>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/登入.png)
+
+b. 輸入帳密後，進到首頁
+
+>>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/首頁.png)
+
+c. 點擊自動偵測，並進入開發者模式，若主控台顯示訊息「websocket已連線」即代表成功啟動
+
+>>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/成功.png)
 
 3.網頁登入的帳密
+
 帳號 : a
+
 密碼 : a
