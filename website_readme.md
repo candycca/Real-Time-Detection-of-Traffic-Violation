@@ -34,13 +34,15 @@ Line64 : ip(port同public/python/website.py)
 
 ## 2.網站啟動指令
 
-### 步驟1： php spark serve --host 0.0.0.0 (開啟server) 
+### 步驟1： cd 到 RT_DTV_website資料夾
+
+### 步驟2： 輸入指令 php spark serve --host 0.0.0.0 (開啟server) 
 
 成功會顯示以下畫面
 
 ![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/php.png)
 
-### 步驟2： php spark websocket:start (開啟python程式)
+### 步驟2： 輸入指令 php spark websocket:start (開啟python程式)
 
 成功會顯示以下畫面
 
