@@ -50,13 +50,19 @@ Line64 : ip(port同public/python/website.py)
 
 a. 點擊步驟1生成的網址，進入登入畫面
 
->>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/登入.png)
+
+
+>![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/登入.png)
 
 b. 輸入帳密後，進到首頁
+
+
 
 >![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/首頁.png)
 
 c. 點擊自動偵測，並進入開發者模式，若主控台顯示訊息「websocket已連線」即代表成功啟動
+
+
 
 >![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/成功.png)
 
