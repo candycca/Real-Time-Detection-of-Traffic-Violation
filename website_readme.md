@@ -35,6 +35,8 @@ Line64 : ip(port同public/python/website.py)
 2.啟動方法
 
 步驟1： php spark serve --host 0.0.0.0 (開啟server) 
+![image](https://github.com/candycca/CCU-Headlight-violation-detection-system/blob/main/docs/php.png)
+
 
 步驟2： php spark websocket:start (開啟python程式)
 
