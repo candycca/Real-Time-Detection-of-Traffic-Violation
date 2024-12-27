@@ -97,7 +97,6 @@
     <?php endif; ?>
     <a href="/MonitorController/only_one_screen">自動偵測</a>
     <a href="/FindController/find_car_with_monitor">搜尋違規車</a>
-    <a href="/MonitorController/test">測試</a>
     <a href="/LoginController/logout" class = "logout">登出</a>
 </div>
 
