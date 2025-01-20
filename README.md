@@ -99,16 +99,7 @@
 ![image](https://github.com/candycca/Real-Time-Detection-of-Traffic-Violation/blob/ccc/docs/系統架構.png)
 
 
-## 車燈標記工具
-1. **用途**：
-  標記車輛車燈每幀的亮暗的工具，並輸出標記結果(csv檔)  
-2. **操作方式**：
-   - 執行標記工具程式
-  
-     ```bash
-       python label_light.py
-     ```
-   - 選擇車燈資料夾並開始標記
+
   
      
 ## 文件結構
@@ -149,8 +140,7 @@
                     |-- turn_predict.csv    # 轉彎模型預測結果
                 |-- light_info/             # 儲存亮暗波型圖以及違規模型預測結果
                     |-- light_predict.csv   # 違規模型預測結果
-                |-- violation/              # 儲存違規照片
-    |-- light_label_tool   # 車燈標記工具 
+                |-- violation/              # 儲存違規照片 
     |-- README.md          # 專案說明文件
 
 ```
